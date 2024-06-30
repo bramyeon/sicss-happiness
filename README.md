@@ -1,5 +1,14 @@
-# sicss-happiness
-SICSS-Korea 2024 Team Project
+# World Happiness Score: Analysis, Interpretation, and Modeling
+__SICSS-Korea 2024 Team Project__  
+Bryan Nathanael Wijaya<sup>1,2</sup>, Inkoo Kang<sup>3</sup>, Ju Hee Jeung<sup>4,5,6</sup>, Kyungmin Lee<sup>7</sup>, and Yumi Park<sup>4</sup> *(in ABC order)*  
+
+<sup>1</sup> School of Computing, Korea Advanced Institute of Science and Technology (KAIST)  
+<sup>2</sup> Center for Mathematical and Computational Sciences, Institute for Basic Science (IBS)  
+<sup>3</sup> Urban Systems, New York University (NYU)  
+<sup>4</sup> Korea Development Institute (KDI) School of Public Policy and Management  
+<sup>5</sup> UNESCO International Centre for Water Security and Sustainable Management (i-WSSM)  
+<sup>6</sup> Korea Water Resource Corporation (K-water)  
+<sup>7</sup> Energy and Environmental Policy, University of Delaware  
 
 ## Datasets
 Datasets for this project are saved in `data`, where preprocessed data is located in its `clean` subdirectory. However, as the city temperature __raw__ dataset is larger than 100MB, this repository does not include the file. Kindly download the raw dataset at [this Kaggle dataset link](https://www.kaggle.com/datasets/subhamjain/temperature-of-all-countries-19952020) and save it as `city-temperature.csv` in the `data` directory. The following is our dataset summary.
